@@ -1,5 +1,9 @@
 {
-  "name": "@KuldeepSon/lab4",
+  "name": "@kuldeepson/lab4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KuldeepSon/lab4.git"
+  },
   "version": "7.7.7",
   "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
